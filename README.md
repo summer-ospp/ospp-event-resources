@@ -1,8 +1,6 @@
 # ospp-event-resources
 开源之夏线下活动资源库
 
-
-
 | 活动名称 | 时间 | 城市 | 相关资料 |
 |---|---|---|---|
 | [校园行｜开源之夏 2023 走进东南大学](![img](file:///C:/Users/ruave/AppData/Local/Microsoft/Windows/Clipboard/HistoryData/%7B8ABEB565-6745-4AE8-94A0-95B8F752223D%7D/%7B5B87FDDE-9781-4831-A4C5-3B86B24B7891%7D/ResourceMap/%7BBC47C972-A9A9-43A7-A6E7-2590A4411B94%7D)https://mp.weixin.qq.com/s/Y8MvBB8neFr2WpWPof9X-w)<br />[回顾｜开源之夏校园行东南大学站](![img](file:///C:/Users/ruave/AppData/Local/Microsoft/Windows/Clipboard/HistoryData/%7B8ABEB565-6745-4AE8-94A0-95B8F752223D%7D/%7B5780EF9E-00B2-4721-91F4-1ECEBCCAE883%7D/ResourceMap/%7B5C0DDB22-F31C-4AA5-99C4-E41655801721%7D)https://mp.weixin.qq.com/s/d8oozIY9ildGaXE43X0XOw) | 2023-05-31 | 南京 | [东南大学](https://github.com/summer-ospp/ospp-event-resources/tree/main/%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6) |
