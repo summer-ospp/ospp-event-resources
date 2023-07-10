@@ -1,0 +1,33 @@
+name: 校园行申请
+description: 如果您想申请开源之夏到学校举办校园行，请填写此内容
+title: '[学校名称] - 开源之夏校园行申请'
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        如果您想申请开源之夏到学校举办校园行，请填写此下面的表单
+  - type: input
+    id: school
+    attributes:
+      label: 学校名称
+      description: 想要报名开源之夏校园行的学校
+      placeholder: 学校名称
+    validations:
+      required: true
+  - type: input
+    id: applicant
+    attributes:
+      label: 申请人姓名，职务以及联系方式
+      description: 开源之夏校园行的联系人的姓名，职务以及联系方式
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: input
+    id: support
+    attributes:
+      label: 相关支持
+      description: 是否有学校社团的支持（没有则不用填写）
+      placeholder: 没有则不用填写
+    validations:
+      required: false
