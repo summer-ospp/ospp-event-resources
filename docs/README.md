@@ -11,4 +11,3 @@
 | [校园行｜开源之夏 2023 走进南京邮电大学](https://mp.weixin.qq.com/s/XuwxduQxFFAIlo8DmJ6sKw)<br />[回顾｜开源之夏校园行南京邮电大学站](https://mp.weixin.qq.com/s/1DeiogSEM4Zo-naUtInDzw) | 2023-05-10 | 南京 | [南京邮电大学](https://github.com/summer-ospp/ospp-event-resources/tree/main/%E5%8D%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6) |
 | [开源之夏 2023 线下交流会第二期 · 北京站（预热）](https://mp.weixin.qq.com/s/SUkk1NNojLrjURmrcrvtWQ)<br />[开源之夏 2023 线下交流会第二期 · 北京站（twitter实况）](https://twitter.com/0kKL7jN4t57kiR6/status/1655075811756523526) | 2023-05-07 | 北京 | [开源之夏 2023 线下交流会第二期](https://github.com/LinuxSuRen/open-source-best-practice/issues/129) |
 | [开源之夏2023非正式对话 北京站（预热）](https://mp.weixin.qq.com/s/HdyfbyiWkkXlFXuceKX9YA)<br />[开源之夏2023非正式对话 北京站（回顾）](https://mp.weixin.qq.com/s/6R9qnRkfLsiJNYMMHe_x3w) | 2023-03-04 | 北京 | [开源之夏2023非正式对话 北京站](https://github.com/LinuxSuRen/open-source-best-practice/issues/113) |
-123
