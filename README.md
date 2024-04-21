@@ -3,6 +3,9 @@
 
 | 活动名称 | 时间 | 城市 | 相关资料 | 共建组织 |
 |---|---|---|---|---|
+| [校园行｜开源之夏2024走进华南理工大学](https://mp.weixin.qq.com/s/GYK_abJwQkyo7Pkkpy3dbA)<br />[回顾｜开源之夏校园行华南理工大学站](https://mp.weixin.qq.com/s/w50gLY_EW83SSKr1teRv-A) | 2024-04-13 | 广州 | [华南理工大学](https://github.com/summer-ospp/ospp-event-resources/tree/main/%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6) | 华工微软俱乐部 |
+| [开源之夏 2024 启动会](https://mp.weixin.qq.com/s/csbDc3AhHDdmqDV_VBHfMQ)<br />[开源之夏 2024 启动会成功举办，社区报名正式开放](https://mp.weixin.qq.com/s/zDyV-X-yN6yNmTz3apy8hA) | 2024-03-10 | 北京 | [2024启动会](https://github.com/summer-ospp/ospp-event-resources/tree/main/2024%E5%90%AF%E5%8A%A8%E4%BC%9A) | 中国科学院软件研究所 |
+| [校园行｜开源之夏2023走进北京大学](https://mp.weixin.qq.com/s/ghWIgXb945W-191WcNFvDg)<br />[回顾｜开源之夏校园行北京大学站](https://mp.weixin.qq.com/s/yBGNTIvFHfwi1j_kHfEY5g) | 2023-11-25 | 北京 | [北京大学](https://github.com/summer-ospp/ospp-event-resources/tree/main/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6) | 北京大学Linux俱乐部、openEuler社区 |
 | [校园行｜开源之夏2023走进北京航空航天大学](https://mp.weixin.qq.com/s/sT8CyIRg61gsSnpcJM36Ug)<br /> | 2023-09-23 | 北京 | [北京航空航天大学](https://github.com/summer-ospp/ospp-event-resources/tree/main/%E5%8C%97%E4%BA%AC%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E5%A4%A7%E5%AD%A6) | 北航计算机学院研究生会学术部、CCF北航分会 |
 | [校园行｜开源之夏 2023 走进东南大学](https://mp.weixin.qq.com/s/Y8MvBB8neFr2WpWPof9X-w)<br />[回顾｜开源之夏校园行东南大学站](https://mp.weixin.qq.com/s/d8oozIY9ildGaXE43X0XOw) | 2023-05-31 | 南京 | [东南大学](https://github.com/summer-ospp/ospp-event-resources/tree/main/%E4%B8%9C%E5%8D%97%E5%A4%A7%E5%AD%A6) | 网安学院 |
 | [开源之夏 2023 线下交流会第三期 · 杭州站](https://mp.weixin.qq.com/s/OzSLXlZogSRUc5tVEIrrMQ) | 2023-05-27 | 杭州 | [杭州 Meetup](https://github.com/summer-ospp/ospp-event-resources/tree/main/%E6%9D%AD%E5%B7%9E%20Meetup) | AFFiNE  |
