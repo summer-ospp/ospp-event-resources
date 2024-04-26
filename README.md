@@ -3,6 +3,7 @@
 
 | 活动名称 | 时间 | 城市 | 相关资料 | 共建组织 |
 |---|---|---|---|---|
+| [校园行｜开源之夏走进苏州大学](https://mp.weixin.qq.com/s/i1LbJiXeYSoBJYn7xEpo2w)<br />[回顾｜开源之夏校园行苏州大学站圆满结束](https://mp.weixin.qq.com/s/ZqvA3Tx2nAzGAyEUvxr_MQ) | 2024-04-20 | 苏州 | [苏州大学](https://github.com/summer-ospp/ospp-event-resources/tree/main/%E8%8B%8F%E5%B7%9E%E5%A4%A7%E5%AD%A6) | 苏州大学软件学院、计算机科学与技术学院、开放原子校源行 |
 | [校园行｜开源之夏2024走进华南理工大学](https://mp.weixin.qq.com/s/GYK_abJwQkyo7Pkkpy3dbA)<br />[回顾｜开源之夏校园行华南理工大学站](https://mp.weixin.qq.com/s/w50gLY_EW83SSKr1teRv-A) | 2024-04-13 | 广州 | [华南理工大学](https://github.com/summer-ospp/ospp-event-resources/tree/main/%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6) | 华工微软俱乐部 |
 | [开源之夏 2024 启动会](https://mp.weixin.qq.com/s/csbDc3AhHDdmqDV_VBHfMQ)<br />[开源之夏 2024 启动会成功举办，社区报名正式开放](https://mp.weixin.qq.com/s/zDyV-X-yN6yNmTz3apy8hA) | 2024-03-10 | 北京 | [2024启动会](https://github.com/summer-ospp/ospp-event-resources/tree/main/2024%E5%90%AF%E5%8A%A8%E4%BC%9A) | 中国科学院软件研究所 |
 | [校园行｜开源之夏2023走进北京大学](https://mp.weixin.qq.com/s/ghWIgXb945W-191WcNFvDg)<br />[回顾｜开源之夏校园行北京大学站](https://mp.weixin.qq.com/s/yBGNTIvFHfwi1j_kHfEY5g) | 2023-11-25 | 北京 | [北京大学](https://github.com/summer-ospp/ospp-event-resources/tree/main/%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6) | 北京大学Linux俱乐部、openEuler社区 |
